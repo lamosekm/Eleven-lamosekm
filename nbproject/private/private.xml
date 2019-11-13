@@ -5,9 +5,13 @@
         <group>
             <file>file:/C:/Users/lamosekm/Documents/NetBeansProjects/Eleven-lamosekm/src/Card.java</file>
             <file>file:/C:/Users/lamosekm/Documents/NetBeansProjects/Eleven-lamosekm/src/CardTester.java</file>
+            <file>file:/C:/Users/lamosekm/Documents/NetBeansProjects/Eleven-lamosekm/src/ElevensBoard.java</file>
+            <file>file:/C:/Users/lamosekm/Documents/NetBeansProjects/Eleven-lamosekm/src/Board.java</file>
             <file>file:/C:/Users/lamosekm/Documents/NetBeansProjects/Eleven-lamosekm/src/DeckTester.java</file>
             <file>file:/C:/Users/lamosekm/Documents/NetBeansProjects/Eleven-lamosekm/src/Deck.java</file>
+            <file>file:/C:/Users/lamosekm/Documents/NetBeansProjects/Eleven-lamosekm/src/CardGameGUI.java</file>
             <file>file:/C:/Users/lamosekm/Documents/NetBeansProjects/Eleven-lamosekm/src/Shuffler.java</file>
+            <file>file:/C:/Users/lamosekm/Documents/NetBeansProjects/Eleven-lamosekm/src/ElevensGUIRunner.java</file>
         </group>
     </open-files>
 </project-private>

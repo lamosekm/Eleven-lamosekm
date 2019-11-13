@@ -41,7 +41,7 @@ public class Deck {
             }
           }
           // initialize the size variable
-          this.size = cards.size();
+
           this.shuffle();
         } // close constructor
 
@@ -74,6 +74,7 @@ public class Deck {
                 Card temp = cards.get(s);
                 cards.set(s, cards.get(pos));
                 cards.set(pos, temp);
+                this.size = cards.size();
             }
 	}
 
